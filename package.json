@@ -36,7 +36,7 @@
     "access": "public"
   },
   "dependencies": {
-    "@rollup/plugin-inject": "^4.0.2",
+    "@rollup/plugin-inject": "^4.0.3",
     "bl": "^5.0.0",
     "cross-fetch": "^3.0.6",
     "eventsource": "^1.0.7",
