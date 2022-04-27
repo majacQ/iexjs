@@ -41,7 +41,7 @@
     "cross-fetch": "^3.0.6",
     "eventsource": "^1.0.7",
     "regenerator-runtime": "^0.13.7",
-    "semver": "^7.3.5",
+    "semver": "^7.3.6",
     "temporal-cache": "^0.1.0"
   },
   "devDependencies": {
