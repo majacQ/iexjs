@@ -39,7 +39,7 @@
     "@rollup/plugin-inject": "^4.0.2",
     "bl": "^5.0.0",
     "cross-fetch": "^3.0.6",
-    "eventsource": "^1.0.7",
+    "eventsource": "^2.0.2",
     "regenerator-runtime": "^0.13.7",
     "semver": "^7.3.5",
     "temporal-cache": "^0.1.0"
